@@ -1,2 +1,2 @@
 # cppredis
-redis lib by using C++ 
+redis lib for C++ 
